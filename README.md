@@ -22,16 +22,21 @@ This project is an automated coupon code validation script using Puppeteer to ch
 - dotenv
 - File System (fs)
 
+## Prerequisites
+
+- Node.js v18.18.0 or higher
+- npm (Node Package Manager)
+
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/iamrobertw/c0De-ChEcKeR.git
-   cd repo
+   cd c0De-ChEcKeR
    ```
 2. Install dependencies:
    ```bash
-   npm install puppeteer dotenv
+   npm install
    ```
 
 ## Configuration
